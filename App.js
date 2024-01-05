@@ -38,6 +38,7 @@ export default App = () => {
             </View>
           )}
         />
+        {/* //tuan 7 roi ne */}
     </View>
   );
 };
